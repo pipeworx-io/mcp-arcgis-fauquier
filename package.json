@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-fauquier",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Fauquier County GIS — Fauquier County, Virginia open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-63f0e128ef892633a75327098ff5d774a1945039f2e0978cfff69dcdb9308e89",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-c85c0da089022bc9b10f4872f222837fd1c6383447337223bfe01ce57dbd4efd",
+    "sourceCommit": "dca20ba6e13a9aa1c9f2918fc2ddaffe4cc30e5c"
   }
 }
